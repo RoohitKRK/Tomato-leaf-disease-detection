@@ -1,0 +1,11 @@
+# Core libraries for data manipulation and visualization
+pandas
+numpy
+matplotlib
+seaborn
+Pillow
+
+# Machine Learning and Deep Learning frameworks
+scikit-learn
+tensorflow
+opencv-python # For cv2 imports
